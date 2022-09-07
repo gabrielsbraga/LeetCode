@@ -1,6 +1,18 @@
 public class App {
     public static void main(String[] args) throws Exception {
 
+        //ENTERING THE ARRAY INPUT AND OUR SUM TARGET VALUE
+        int[] input = {5,6,8,5,4,6,7,4};
+        int target = 9;
+
+        //CALLING THE FUNCTION 
+        int[] result = twoSum(input, target);
+
+        //RETURNING THE POSITION OF VALUES WITH SUM EQUALS TO TARGET
+        for (int i=0; i < result.length; i++) {
+            System.out.println(result[i]);
+        }
+
     }
 
     public static int[] twoSum(int[] nums, int target) {
