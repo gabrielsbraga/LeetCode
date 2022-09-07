@@ -1,18 +1,18 @@
-## Getting Started
+## TwoSum
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
-## Folder Structure
+You can return the answer in any order.
 
-The workspace contains two folders by default, where:
+**Techniques/Algorithms**
+* Algorithm
+* Graphs/Trees
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+**Languages** 
+* Java
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+**Difficulty** 
+* Easy
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
